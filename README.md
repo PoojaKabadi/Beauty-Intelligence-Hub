@@ -1,7 +1,7 @@
 <h1 align="center">Beauty Intelligence Hub</h1>
 <p align="center">
   <a href="https://github.com/PoojaKabadi/Beauty-Intelligence-Hub/tree/main">
-    <img src="https://github.com/user-attachments/assets/6f2ea620-a344-445b-aa79-2183856cc822" alt="Beauty Intelligence Hub" width="900px" />
+    <img src="https://github.com/user-attachments/assets/09e99baf-c5c3-43e7-89f3-d6cf303138ba" alt="Beauty Intelligence Hub" width="900px" />
   </a>
   <br><i>
 Built an interactive NLP dashboard to analyze 1M+ Sephora product reviews, uncover ingredient risks, and empower consumers with transparent insights on skincare safety, sentiment, and trends.
